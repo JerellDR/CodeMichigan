@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+#netbeans ignore personal stuff
+nbproject/private/
+
 # generated files
 bin/
 gen/
@@ -18,3 +21,19 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+#python specific
+*.pyc
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
