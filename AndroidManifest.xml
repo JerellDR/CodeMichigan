@@ -29,7 +29,7 @@
             android:theme="@style/AppTheme">
         <meta-data
                 android:name="com.google.android.maps.v2.API_KEY"
-                android:value="AIzaSyCkU4gXl8ML5Red3DYk-cqh7yVq63hJVLI"/>
+                android:value=""/>
 
         <activity
                 android:name="com.wsu_codemichigan.MainActivity"
