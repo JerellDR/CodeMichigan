@@ -1,4 +1,4 @@
-wsucodeformichigan
+CodeMichigan
 ==================
 
 WSU Code For Michigan
